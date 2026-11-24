@@ -1,4 +1,4 @@
-# Tennis Club Membership System
+# Tennis Club Member App
 
 A full-stack web application for managing a tennis club's memberships, court reservations, and payments, designed for a club of up to 1,000 members. The requirements were written to the IEEE 830 standard to meet the client's expectations.
 
